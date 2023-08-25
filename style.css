@@ -1,0 +1,39 @@
+h2{
+    color: aliceblue;
+}
+body{
+
+    font-size: larger;
+      color: black;
+  }
+img{
+    border-radius: 400px;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 50px;
+
+}
+footer{
+    text-align: center;
+    color: black;
+}
+.color-changing-text:hover{
+  color: crimson;
+}
+a:hover{
+    color: blue;
+}
+
+
+
+    
+
+
+    
